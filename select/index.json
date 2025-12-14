@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "Empty old City - Daisy Crown",
+  "base_artist": "Empty old City",
+  "createdAt": "2025-12-14T04:20:50.401399Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Empty old City - Buffer",
+      "artist": "Empty old City",
+      "has_synced": true,
+      "path": "select/01_Empty_old_City_-_Buffer_Empty_old_City.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Daisy Crown",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/pl_01_Daisy_Crown_Empty_old_City.txt"
+    }
+  ]
+}

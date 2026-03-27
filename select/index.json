@@ -1,16 +1,112 @@
 {
   "version": 1,
-  "base_track": "Empty old City - Daisy Crown",
+  "base_track": "Daisy Crown",
   "base_artist": "Empty old City",
-  "createdAt": "2025-12-14T04:20:50.401399Z",
+  "createdAt": "2026-03-27T18:11:12.760585Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "Empty old City - Buffer",
+      "title": "Daisy Crown (English Ver.) (English Ver.)",
       "artist": "Empty old City",
       "has_synced": true,
-      "path": "select/01_Empty_old_City_-_Buffer_Empty_old_City.lrc"
+      "path": "select/01_Daisy_Crown_(English_Ver.)_(English_Ver.)_Empty_old_City.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Daisy Crown (English Ver.)",
+      "artist": "Empty old City",
+      "has_synced": true,
+      "path": "select/02_Daisy_Crown_(English_Ver.)_Empty_old_City.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Daisy Crown",
+      "artist": "Empty old City",
+      "has_synced": true,
+      "path": "select/03_Daisy_Crown_Empty_old_City.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Daisy Crown (한국어)",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/04_Daisy_Crown_(한국어)_Empty_old_City.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Daisy Crown (中文版)",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/05_Daisy_Crown_(中文版)_Empty_old_City.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Daisy Crown",
+      "artist": "Empty old City & Wuthering Waves",
+      "has_synced": true,
+      "path": "select/06_Daisy_Crown_Empty_old_City_&_Wuthering_Waves.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Daisy Crown (한국어)",
+      "artist": "鸣潮先约电台/Hajin (하진)/Empty old City",
+      "has_synced": true,
+      "path": "select/07_Daisy_Crown_(한국어)_鸣潮先约电台_Hajin_(하진)_Empty_old_City.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Daisy Crown (中文)",
+      "artist": "鸣潮先约电台/芜桃/Empty old City/VISION SOUND",
+      "has_synced": true,
+      "path": "select/08_Daisy_Crown_(中文)_鸣潮先约电台_芜桃_Empty_old_City_VISION_SOUND.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Daisy Crown",
+      "artist": "Empty old City和Wuthering Waves",
+      "has_synced": false,
+      "path": "select/09_Daisy_Crown_Empty_old_City和Wuthering_Waves.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Daisy Crown [Japanese Ver.]",
+      "artist": "Empty old City",
+      "has_synced": true,
+      "path": "select/10_Daisy_Crown_[Japanese_Ver.]_Empty_old_City.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Daisy Crown (日本語)",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/11_Daisy_Crown_(日本語)_Empty_old_City.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Daisy Crown (English Ver.)",
+      "artist": "Empty old City, Wuthering Waves",
+      "has_synced": true,
+      "path": "select/12_Daisy_Crown_(English_Ver.)_Empty_old_City,_Wuthering_Waves.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Daisy Crown (Instrumental)",
+      "artist": "Empty old City",
+      "has_synced": false,
+      "path": "select/13_Daisy_Crown_(Instrumental)_Empty_old_City.txt"
     },
     {
       "id": "petitlyrics_1",
@@ -19,6 +115,15 @@
       "artist": "Empty old City",
       "has_synced": false,
       "path": "select/pl_01_Daisy_Crown_Empty_old_City.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "Daisy Crown",
+      "artist": "Empty old City",
+      "has_synced": true,
+      "path": "select/localdb_01_Daisy_Crown_Empty_old_City.lrc",
+      "repo_name": "yHCWtVMqoig"
     }
   ]
 }

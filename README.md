@@ -1,4 +1,4 @@
-# Empty old City – Empty old City - Daisy Crown
+# Empty old City – Daisy Crown
 
 > **歌詞登録ステータス：同期歌詞あり**
 
